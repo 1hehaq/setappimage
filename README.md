@@ -1,0 +1,2 @@
+# setappimage
+AppImage Setup Utility
